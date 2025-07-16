@@ -51,7 +51,7 @@ frontend/weather-widget/
 
 1. **Clona el repositorio**
    ```bash
-   git clone <URL_DEL_REPO>
+   git clone https://github.com/vicstxx/prueba-tecnica.git
    cd frontend/weather-widget
    ```
 
